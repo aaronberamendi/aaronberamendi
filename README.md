@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaronberamendi-12aa13144">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaron-beramendi">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
